@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(233, 8, 8);
+    color: rgb(255, 255, 255);
+    font-family: Verdana;
+}
+h1{
+    font-size: 48px;
+    text-align: center;
+}
+img {
+width: 400px;
+height: 290;
+border-radius: 30px;
+border:solid black 3px;
+}
+div{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
